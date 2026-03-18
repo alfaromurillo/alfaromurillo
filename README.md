@@ -44,7 +44,7 @@ before joining the faculty at UCR-CIMPA in 2026.
 
 - 📧 [jorge.alfaro@ucr.ac.cr](mailto:jorge.alfaro@ucr.ac.cr)
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=2Ta_iNEAAAAJ&hl=en)
-- 💼 [LinkedIn](#) *(add your profile URL)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/jorge-a-alfaro-murillo-654bb946/)
 - 🏛️ [CIMPA — UCR](https://www.cimpa.ucr.ac.cr/)
 
 ## Consulting

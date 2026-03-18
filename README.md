@@ -53,6 +53,7 @@ Biostatistics before joining the faculty at UCR-CIMPA in 2026.
 
 ## Consulting
 
-Available for consulting in epidemiological modeling,
-cost-effectiveness analysis, and public health data science.
-Reach out by email.
+Available for consulting in mathematical modeling in general,
+including ecology modeling, epidemiological modeling,
+cost-effectiveness analysis, and public health data science. Reach out
+by email.

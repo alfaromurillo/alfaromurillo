@@ -11,12 +11,12 @@ Professor · [CIMPA, Universidad de Costa Rica](https://www.cimpa.ucr.ac.cr/)
 I develop mathematical and statistical models to understand the
 dynamics of biological problems across scales — from population
 ecology and host–pathogen interactions, to the spread of infectious
-diseases, to the evolution of cancer within tumors. My work bridges
-theoretical biology and applied science: forecasting outbreak
-trajectories, evaluating the cost-effectiveness of vaccination
-programs, studying predator–prey and competition dynamics, and
-inferring selection pressures on somatic mutations from tumor
-sequencing data.
+diseases within a country, to the evolution of cancer within
+tumors. My work bridges theoretical biology and applied science:
+forecasting outbreak trajectories, evaluating the cost-effectiveness
+of vaccination programs, studying predator–prey and competition
+dynamics, and inferring selection pressures on somatic mutations from
+tumor sequencing data.
 
 I hold a PhD in Mathematics (Purdue University) and spent eleven years
 at Yale's Center for Infectious Disease Modeling and Analysis
@@ -25,10 +25,11 @@ Biostatistics before joining the faculty at UCR-CIMPA in 2026.
 
 ## Research Areas
 
-- **Disease transmission modeling** — SIR/SEIR/SEIS ODEs and
+- **Disease transmission modeling** — Dynamical systems and
   stochastic models; outbreak analysis and forecasting
 - **Cancer evolution & somatic mutations** — mutation rate estimation
-  and selection inference from tumor sequencing data
+  and selection inference from tumor sequencing data:
+  [sigmutsel][https://github.com/alfaromurillo/sigmutsel]
 - **Cost-effectiveness analysis** — economic evaluation of vaccination
   programs and public health interventions
 - **Population dynamics & ecology** — structured population models,
@@ -41,8 +42,8 @@ Biostatistics before joining the faculty at UCR-CIMPA in 2026.
 - U.S. and China Centers for Disease Control and Prevention (CDC)
 - Ministries of Health of Costa Rica, Argentina, and Dominican
   Republic
-- Pharmaceutical companies — disease modeling for vaccine development
-  and market access
+- Merck & Co Inc., Sanofi S.A — disease modeling for vaccine
+  development and market access
 
 ## Links
 

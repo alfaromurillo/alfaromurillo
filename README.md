@@ -1,23 +1,27 @@
 # Jorge A. Alfaro-Murillo
 
-**Mathematical Biologist · Epidemiology & Public Health Modeling**
+**Mathematical Modeler**
 
 Professor · [CIMPA, Universidad de Costa Rica](https://www.cimpa.ucr.ac.cr/)
-Former Associate Research Scientist · Yale School of Public Health (11 years)
 
 ---
 
 ## About Me
 
 I develop mathematical and statistical models to understand the
-dynamics of infectious diseases and support public health
-decision-making. My work bridges theoretical biology and applied
-epidemiology — from forecasting outbreak trajectories to evaluating
-the cost-effectiveness of vaccination programs.
+dynamics of biological problems across scales — from population
+ecology and host–pathogen interactions, to the spread of infectious
+diseases, to the evolution of cancer within tumors. My work bridges
+theoretical biology and applied science: forecasting outbreak
+trajectories, evaluating the cost-effectiveness of vaccination
+programs, studying predator–prey and competition dynamics, and
+inferring selection pressures on somatic mutations from tumor
+sequencing data.
 
 I hold a PhD in Mathematics (Purdue University) and spent eleven years
-at Yale's Center for Infectious Disease Modeling and Analysis (CIDMA)
-before joining the faculty at UCR-CIMPA in 2026.
+at Yale's Center for Infectious Disease Modeling and Analysis
+([CIDMA](https://ysph.yale.edu/cidma)) and the Yale Department of
+Biostatistics before joining the faculty at UCR-CIMPA in 2026.
 
 ## Research Areas
 

@@ -29,7 +29,7 @@ Biostatistics before joining the faculty at UCR-CIMPA in 2026.
   stochastic models; outbreak analysis and forecasting
 - **Cancer evolution & somatic mutations** — mutation rate estimation
   and selection inference from tumor sequencing data:
-  [sigmutsel][https://github.com/alfaromurillo/sigmutsel]
+  [sigmutsel](https://github.com/alfaromurillo/sigmutsel)
 - **Cost-effectiveness analysis** — economic evaluation of vaccination
   programs and public health interventions
 - **Population dynamics & ecology** — structured population models,
